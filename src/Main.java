@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Test for github");
         System.out.println("this is issue for shakhlo branch");
+        System.out.println("issue was solved");
+
     }
 }
